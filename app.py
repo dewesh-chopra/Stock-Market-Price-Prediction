@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Basic visualizations
-st.title('Stock trend prediction using stacked LSTM')
+st.title('Stock trend prediction using stacked LSTM - by Dewesh Chopra')
 
 start = '2010-01-01'
 end = '2019-12-31'
