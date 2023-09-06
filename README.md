@@ -1,6 +1,6 @@
 # Stock Trend Analysis with Stacked LSTM
 
-![Demo on](Deployed on: [https://stock-analysis-by-dewesh.streamlit.app/])
+(Deployed on: [https://stock-analysis-by-dewesh.streamlit.app/])
 
 ## Overview
 This project was developed during my trainee internship with Sai Coding Solutions Pvt. Ltd., where I had the opportunity to create a powerful Stock Trend Analysis tool. Leveraging Stacked Long Short-Term Memory (LSTM) neural networks, this model provides a stock trend prediction.
