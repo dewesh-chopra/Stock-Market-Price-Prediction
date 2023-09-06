@@ -6,3 +6,4 @@ keras
 numpy
 matplotlib
 yfinance
+tensorflow
