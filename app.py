@@ -57,7 +57,7 @@ scaler = MinMaxScaler(feature_range = (0, 1))
 data_train_arr = scaler.fit_transform(data_train)
 
 # Loading our model
-model = load_model('keras_stock_model.keras')
+model = load_model('keras_stock_model.h5')
 
 # Testing closing prices via our model
 past_100_days = data_train.tail(100)
